@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: releway-scroll_black;
+    src: url(../fonts/raleway-black.woff2);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: releway-scroll;
+    src: url(../fonts/raleway-regular.woff2);
+}
